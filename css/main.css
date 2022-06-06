@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: black;
+    color: white;
+}
+
+h1, p, .scoreboard, h2{
+    width: 100%;
+    float:left;
+    text-align: center;
+}
+
+table{
+    width: 30%;
+    float:left;
+    margin-left: 33.5%;
+}
+
+.buttonsection{
+    width: 80%;
+    float:left;
+    margin-left: 41.5%;
+    margin-bottom: 5%;
+}
+
+button{
+    margin-left: 2%;
+    float:left;
+}
+
+#status{
+    width: 100%;
+    font-size: 2rem;
+    text-align: center;
+}
